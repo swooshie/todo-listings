@@ -4,7 +4,8 @@
   "description": "a little to do app",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -22,8 +23,5 @@
     "express": "^4.17.1",
     "mongodb": "^3.5.5",
     "mongoose": "^5.9.4"
-  }
-  "scripts": {
-    "start": "node app.js"
   }
 }
