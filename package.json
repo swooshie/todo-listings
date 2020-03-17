@@ -23,4 +23,7 @@
     "mongodb": "^3.5.5",
     "mongoose": "^5.9.4"
   }
+  "scripts"{
+    "start": "node app.js"
+  }
 }
